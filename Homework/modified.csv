@@ -1,0 +1,541 @@
+Gender,Age,Race,Deaths,Population,Rate,TotalDeathPopRate,Unnamed: 0,Intent
+None selected,None selected,None selected,33599,316299978,10.6,316333587.6,1,None selected
+None selected,None selected,White,22079,197369634,11.2,197391724.2,2,None selected
+None selected,None selected,Black,7765,38896382,20.0,38904167.0,3,None selected
+None selected,None selected,Hispanic,3007,54049078,5.6,54052090.6,4,None selected
+None selected,None selected,Asian/Pacific Islander,442,16315561,2.7,16316005.7,5,None selected
+None selected,None selected,Other,306,9669323,3.2,9669632.2,6,None selected
+None selected,Under 15,None selected,427,61085868,0.7,61086295.7,7,None selected
+None selected,Under 15,White,242,31538832,0.8,31539074.8,8,None selected
+None selected,Under 15,Black,109,8323603,1.3,8323713.3,9,None selected
+None selected,Under 15,Hispanic,63,14994449,0.4,14994512.4,10,None selected
+None selected,Under 15,Asian/Pacific Islander,7,2825155,0.2,2825162.2,11,None selected
+None selected,Under 15,Other,5,3403829,0.1,3403834.1,12,None selected
+None selected,15 - 34,None selected,12723,86611149,14.7,86623886.7,13,None selected
+None selected,15 - 34,White,5244,48773131,10.8,48778385.8,14,None selected
+None selected,15 - 34,Black,5297,11893789,44.5,11899130.5,15,None selected
+None selected,15 - 34,Hispanic,1822,17960261,10.1,17962093.1,16,None selected
+None selected,15 - 34,Asian/Pacific Islander,200,4950398,4.0,4950602.0,17,None selected
+None selected,15 - 34,Other,160,3033571,5.3,3033736.3,18,None selected
+None selected,35 - 64,None selected,14874,123935928,12.0,123950814.0,19,None selected
+None selected,35 - 64,White,11396,81870182,13.9,81881591.9,20,None selected
+None selected,35 - 64,Black,2164,14848291,14.6,14850469.6,21,None selected
+None selected,35 - 64,Hispanic,988,17777422,5.6,17778415.6,22,None selected
+None selected,35 - 64,Asian/Pacific Islander,203,6797707,3.0,6797913.0,23,None selected
+None selected,35 - 64,Other,123,2642326,4.7,2642453.7,24,None selected
+None selected,65+,None selected,5569,44667034,12.5,44672615.5,25,None selected
+None selected,65+,White,5192,35187489,14.8,35192695.8,26,None selected
+None selected,65+,Black,194,3830699,5.1,3830898.1,27,None selected
+None selected,65+,Hispanic,133,3316947,4.0,3317084.0,28,None selected
+None selected,65+,Asian/Pacific Islander,32,1742301,1.8,1742334.8,29,None selected
+None selected,65+,Other,18,589598,3.1,589619.1,30,None selected
+None selected,5,None selected,6,0,inf,inf,31,None selected
+None selected,5,White,4,0,inf,inf,32,None selected
+None selected,5,Black,1,0,inf,inf,33,None selected
+None selected,5,Hispanic,0,0,,0.0,34,None selected
+None selected,5,Asian/Pacific Islander,0,0,,0.0,35,None selected
+None selected,5,Other,0,0,,0.0,36,None selected
+Female,None selected,None selected,4816,160668110,3.0,160672929.0,37,None selected
+Female,None selected,White,3562,100162288,3.6,100165853.6,38,None selected
+Female,None selected,Black,773,20362385,3.8,20363161.8,39,None selected
+Female,None selected,Hispanic,358,26670924,1.3,26671283.3,40,None selected
+Female,None selected,Asian/Pacific Islander,81,8589119,0.9,8589200.9,41,None selected
+Female,None selected,Other,42,4883395,0.9,4883437.9,42,None selected
+Female,Under 15,None selected,123,29836679,0.4,29836802.4,43,None selected
+Female,Under 15,White,64,15355910,0.4,15355974.4,44,None selected
+Female,Under 15,Black,32,4095428,0.8,4095460.8,45,None selected
+Female,Under 15,Hispanic,25,7330024,0.3,7330049.3,46,None selected
+Female,Under 15,Asian/Pacific Islander,2,1393440,0.1,1393442.1,47,None selected
+Female,Under 15,Other,1,1661877,0.1,1661878.1,48,None selected
+Female,15 - 34,None selected,1521,42593280,3.6,42594804.6,49,None selected
+Female,15 - 34,White,835,23942099,3.5,23942937.5,50,None selected
+Female,15 - 34,Black,441,6023846,7.3,6024294.3,51,None selected
+Female,15 - 34,Hispanic,191,8580577,2.2,8580770.2,52,None selected
+Female,15 - 34,Asian/Pacific Islander,30,2535358,1.2,2535389.2,53,None selected
+Female,15 - 34,Other,23,1511400,1.5,1511424.5,54,None selected
+Female,35 - 64,None selected,2565,63125058,4.1,63127627.1,55,None selected
+Female,35 - 64,White,2105,41284839,5.1,41286949.1,56,None selected
+Female,35 - 64,Black,270,7932606,3.4,7932879.4,57,None selected
+Female,35 - 64,Hispanic,131,8863203,1.5,8863335.5,58,None selected
+Female,35 - 64,Asian/Pacific Islander,44,3668172,1.2,3668217.2,59,None selected
+Female,35 - 64,Other,16,1376239,1.2,1376256.2,60,None selected
+Female,65+,None selected,606,25113094,2.4,25113702.4,61,None selected
+Female,65+,White,558,19579439,2.8,19579999.8,62,None selected
+Female,65+,Black,29,2310506,1.3,2310536.3,63,None selected
+Female,65+,Hispanic,11,1897119,0.6,1897130.6,64,None selected
+Female,65+,Asian/Pacific Islander,6,992150,0.6,992156.6,65,None selected
+Female,65+,Other,2,333879,0.6,333881.6,66,None selected
+Female,5,None selected,1,0,inf,inf,67,None selected
+Female,5,White,1,0,inf,inf,68,None selected
+Female,5,Black,0,0,,0.0,69,None selected
+Female,5,Hispanic,0,0,,0.0,70,None selected
+Female,5,Asian/Pacific Islander,0,0,,0.0,71,None selected
+Female,5,Other,0,0,,0.0,72,None selected
+Male,None selected,None selected,28783,155631868,18.5,155660669.5,73,None selected
+Male,None selected,White,18517,97207346,19.0,97225882.0,74,None selected
+Male,None selected,Black,6993,18533996,37.7,18541026.7,75,None selected
+Male,None selected,Hispanic,2650,27378155,9.7,27380814.7,76,None selected
+Male,None selected,Asian/Pacific Islander,361,7726442,4.7,7726807.7,77,None selected
+Male,None selected,Other,263,4785929,5.5,4786197.5,78,None selected
+Male,Under 15,None selected,303,31249189,1.0,31249493.0,79,None selected
+Male,Under 15,White,179,16182922,1.1,16183102.1,80,None selected
+Male,Under 15,Black,77,4228176,1.8,4228254.8,81,None selected
+Male,Under 15,Hispanic,39,7664425,0.5,7664464.5,82,None selected
+Male,Under 15,Asian/Pacific Islander,5,1431715,0.3,1431720.3,83,None selected
+Male,Under 15,Other,4,1741952,0.2,1741956.2,84,None selected
+Male,15 - 34,None selected,11202,44017869,25.4,44029096.4,85,None selected
+Male,15 - 34,White,4409,24831032,17.8,24835458.8,86,None selected
+Male,15 - 34,Black,4855,5869943,82.7,5874880.7,87,None selected
+Male,15 - 34,Hispanic,1631,9379683,17.4,9381331.4,88,None selected
+Male,15 - 34,Asian/Pacific Islander,170,2415040,7.0,2415217.0,89,None selected
+Male,15 - 34,Other,136,1522171,8.9,1522315.9,90,None selected
+Male,35 - 64,None selected,12309,60810870,20.2,60823199.2,91,None selected
+Male,35 - 64,White,9291,40585343,22.9,40594656.9,92,None selected
+Male,35 - 64,Black,1894,6915685,27.4,6917606.4,93,None selected
+Male,35 - 64,Hispanic,858,8914219,9.6,8915086.6,94,None selected
+Male,35 - 64,Asian/Pacific Islander,159,3129535,5.1,3129699.1,95,None selected
+Male,35 - 64,Other,107,1266087,8.5,1266202.5,96,None selected
+Male,65+,None selected,4964,19553940,25.4,19558929.4,97,None selected
+Male,65+,White,4634,15608050,29.7,15612713.7,98,None selected
+Male,65+,Black,165,1520192,10.9,1520367.9,99,None selected
+Male,65+,Hispanic,122,1419828,8.6,1419958.6,100,None selected
+Male,65+,Asian/Pacific Islander,26,750151,3.5,750180.5,101,None selected
+Male,65+,Other,16,255719,6.3,255741.3,102,None selected
+Male,5,None selected,5,0,inf,inf,103,None selected
+Male,5,White,4,0,inf,inf,104,None selected
+Male,5,Black,1,0,inf,inf,105,None selected
+Male,5,Hispanic,0,0,,0.0,106,None selected
+Male,5,Asian/Pacific Islander,0,0,,0.0,107,None selected
+Male,5,Other,0,0,,0.0,108,None selected
+None selected,None selected,None selected,21058,316299978,6.7,316321042.7,109,Suicide
+None selected,None selected,White,18457,197369634,9.4,197388100.4,110,Suicide
+None selected,None selected,Black,1111,38896382,2.9,38897495.9,111,Suicide
+None selected,None selected,Hispanic,1057,54049078,2.0,54050137.0,112,Suicide
+None selected,None selected,Asian/Pacific Islander,248,16315561,1.5,16315810.5,113,Suicide
+None selected,None selected,Other,185,9669323,1.9,9669509.9,114,Suicide
+None selected,Under 15,None selected,139,61085868,0.2,61086007.2,115,Suicide
+None selected,Under 15,White,117,31538832,0.4,31538949.4,116,Suicide
+None selected,Under 15,Black,7,8323603,0.1,8323610.1,117,Suicide
+None selected,Under 15,Hispanic,12,14994449,0.1,14994461.1,118,Suicide
+None selected,Under 15,Asian/Pacific Islander,3,2825155,0.1,2825158.1,119,Suicide
+None selected,Under 15,Other,0,3403829,0.0,3403829.0,120,Suicide
+None selected,15 - 34,None selected,5061,86611149,5.8,86616215.8,121,Suicide
+None selected,15 - 34,White,3878,48773131,8.0,48777017.0,122,Suicide
+None selected,15 - 34,Black,510,11893789,4.3,11894303.3,123,Suicide
+None selected,15 - 34,Hispanic,479,17960261,2.7,17960742.7,124,Suicide
+None selected,15 - 34,Asian/Pacific Islander,106,4950398,2.1,4950506.1,125,Suicide
+None selected,15 - 34,Other,88,3033571,2.9,3033661.9,126,Suicide
+None selected,35 - 64,None selected,10764,123935928,8.7,123946700.7,127,Suicide
+None selected,35 - 64,White,9634,81870182,11.8,81879827.8,128,Suicide
+None selected,35 - 64,Black,476,14848291,3.2,14848770.2,129,Suicide
+None selected,35 - 64,Hispanic,456,17777422,2.6,17777880.6,130,Suicide
+None selected,35 - 64,Asian/Pacific Islander,115,6797707,1.7,6797823.7,131,Suicide
+None selected,35 - 64,Other,82,2642326,3.1,2642411.1,132,Suicide
+None selected,65+,None selected,5092,44667034,11.4,44672137.4,133,Suicide
+None selected,65+,White,4827,35187489,13.7,35192329.7,134,Suicide
+None selected,65+,Black,117,3830699,3.1,3830819.1,135,Suicide
+None selected,65+,Hispanic,109,3316947,3.3,3317059.3,136,Suicide
+None selected,65+,Asian/Pacific Islander,24,1742301,1.4,1742326.4,137,Suicide
+None selected,65+,Other,15,589598,2.5,589615.5,138,Suicide
+None selected,5,None selected,2,0,inf,inf,139,Suicide
+None selected,5,White,2,0,inf,inf,140,Suicide
+None selected,5,Black,0,0,,0.0,141,Suicide
+None selected,5,Hispanic,0,0,,0.0,142,Suicide
+None selected,5,Asian/Pacific Islander,0,0,,0.0,143,Suicide
+None selected,5,Other,0,0,,0.0,144,Suicide
+Female,None selected,None selected,2896,160668110,1.8,160671007.8,145,Suicide
+Female,None selected,White,2606,100162288,2.6,100164896.6,146,Suicide
+Female,None selected,Black,121,20362385,0.6,20362506.6,147,Suicide
+Female,None selected,Hispanic,116,26670924,0.4,26671040.4,148,Suicide
+Female,None selected,Asian/Pacific Islander,33,8589119,0.4,8589152.4,149,Suicide
+Female,None selected,Other,21,4883395,0.4,4883416.4,150,Suicide
+Female,Under 15,None selected,25,29836679,0.1,29836704.1,151,Suicide
+Female,Under 15,White,19,15355910,0.1,15355929.1,152,Suicide
+Female,Under 15,Black,1,4095428,0.0,4095429.0,153,Suicide
+Female,Under 15,Hispanic,4,7330024,0.1,7330028.1,154,Suicide
+Female,Under 15,Asian/Pacific Islander,1,1393440,0.1,1393441.1,155,Suicide
+Female,Under 15,Other,0,1661877,0.0,1661877.0,156,Suicide
+Female,15 - 34,None selected,662,42593280,1.6,42593943.6,157,Suicide
+Female,15 - 34,White,539,23942099,2.3,23942640.3,158,Suicide
+Female,15 - 34,Black,44,6023846,0.7,6023890.7,159,Suicide
+Female,15 - 34,Hispanic,55,8580577,0.6,8580632.6,160,Suicide
+Female,15 - 34,Asian/Pacific Islander,14,2535358,0.6,2535372.6,161,Suicide
+Female,15 - 34,Other,10,1511400,0.7,1511410.7,162,Suicide
+Female,35 - 64,None selected,1773,63125058,2.8,63126833.8,163,Suicide
+Female,35 - 64,White,1630,41284839,3.9,41286472.9,164,Suicide
+Female,35 - 64,Black,65,7932606,0.8,7932671.8,165,Suicide
+Female,35 - 64,Hispanic,52,8863203,0.6,8863255.6,166,Suicide
+Female,35 - 64,Asian/Pacific Islander,16,3668172,0.4,3668188.4,167,Suicide
+Female,35 - 64,Other,10,1376239,0.7,1376249.7,168,Suicide
+Female,65+,None selected,436,25113094,1.7,25113531.7,169,Suicide
+Female,65+,White,417,19579439,2.1,19579858.1,170,Suicide
+Female,65+,Black,11,2310506,0.5,2310517.5,171,Suicide
+Female,65+,Hispanic,5,1897119,0.3,1897124.3,172,Suicide
+Female,65+,Asian/Pacific Islander,2,992150,0.2,992152.2,173,Suicide
+Female,65+,Other,1,333879,0.3,333880.3,174,Suicide
+Female,5,None selected,1,0,inf,inf,175,Suicide
+Female,5,White,1,0,inf,inf,176,Suicide
+Female,5,Black,0,0,,0.0,177,Suicide
+Female,5,Hispanic,0,0,,0.0,178,Suicide
+Female,5,Asian/Pacific Islander,0,0,,0.0,179,Suicide
+Female,5,Other,0,0,,0.0,180,Suicide
+Male,None selected,None selected,18162,155631868,11.7,155650041.7,181,Suicide
+Male,None selected,White,15852,97207346,16.3,97223214.3,182,Suicide
+Male,None selected,Black,989,18533996,5.3,18534990.3,183,Suicide
+Male,None selected,Hispanic,941,27378155,3.4,27379099.4,184,Suicide
+Male,None selected,Asian/Pacific Islander,215,7726442,2.8,7726659.8,185,Suicide
+Male,None selected,Other,164,4785929,3.4,4786096.4,186,Suicide
+Male,Under 15,None selected,114,31249189,0.4,31249303.4,187,Suicide
+Male,Under 15,White,98,16182922,0.6,16183020.6,188,Suicide
+Male,Under 15,Black,6,4228176,0.1,4228182.1,189,Suicide
+Male,Under 15,Hispanic,9,7664425,0.1,7664434.1,190,Suicide
+Male,Under 15,Asian/Pacific Islander,2,1431715,0.1,1431717.1,191,Suicide
+Male,Under 15,Other,0,1741952,0.0,1741952.0,192,Suicide
+Male,15 - 34,None selected,4399,44017869,10.0,44022278.0,193,Suicide
+Male,15 - 34,White,3339,24831032,13.4,24834384.4,194,Suicide
+Male,15 - 34,Black,466,5869943,7.9,5870416.9,195,Suicide
+Male,15 - 34,Hispanic,424,9379683,4.5,9380111.5,196,Suicide
+Male,15 - 34,Asian/Pacific Islander,92,2415040,3.8,2415135.8,197,Suicide
+Male,15 - 34,Other,78,1522171,5.1,1522254.1,198,Suicide
+Male,35 - 64,None selected,8991,60810870,14.8,60819875.8,199,Suicide
+Male,35 - 64,White,8005,40585343,19.7,40593367.7,200,Suicide
+Male,35 - 64,Black,411,6915685,5.9,6916101.9,201,Suicide
+Male,35 - 64,Hispanic,405,8914219,4.5,8914628.5,202,Suicide
+Male,35 - 64,Asian/Pacific Islander,99,3129535,3.2,3129637.2,203,Suicide
+Male,35 - 64,Other,71,1266087,5.6,1266163.6,204,Suicide
+Male,65+,None selected,4656,19553940,23.8,19558619.8,205,Suicide
+Male,65+,White,4409,15608050,28.2,15612487.2,206,Suicide
+Male,65+,Black,106,1520192,7.0,1520305.0,207,Suicide
+Male,65+,Hispanic,104,1419828,7.3,1419939.3,208,Suicide
+Male,65+,Asian/Pacific Islander,22,750151,2.9,750175.9,209,Suicide
+Male,65+,Other,14,255719,5.5,255738.5,210,Suicide
+Male,5,None selected,2,0,inf,inf,211,Suicide
+Male,5,White,1,0,inf,inf,212,Suicide
+Male,5,Black,0,0,,0.0,213,Suicide
+Male,5,Hispanic,0,0,,0.0,214,Suicide
+Male,5,Asian/Pacific Islander,0,0,,0.0,215,Suicide
+Male,5,Other,0,0,,0.0,216,Suicide
+None selected,None selected,None selected,11726,316299978,3.7,316311707.7,217,Homicide
+None selected,None selected,White,3049,197369634,1.5,197372684.5,218,Homicide
+None selected,None selected,Black,6503,38896382,16.7,38902901.7,219,Homicide
+None selected,None selected,Hispanic,1878,54049078,3.5,54050959.5,220,Homicide
+None selected,None selected,Asian/Pacific Islander,186,16315561,1.1,16315748.1,221,Homicide
+None selected,None selected,Other,109,9669323,1.1,9669433.1,222,Homicide
+None selected,Under 15,None selected,221,61085868,0.4,61086089.4,223,Homicide
+None selected,Under 15,White,88,31538832,0.3,31538920.3,224,Homicide
+None selected,Under 15,Black,82,8323603,1.0,8323686.0,225,Homicide
+None selected,Under 15,Hispanic,45,14994449,0.3,14994494.3,226,Homicide
+None selected,Under 15,Asian/Pacific Islander,4,2825155,0.1,2825159.1,227,Homicide
+None selected,Under 15,Other,3,3403829,0.1,3403832.1,228,Homicide
+None selected,15 - 34,None selected,7335,86611149,8.5,86618492.5,229,Homicide
+None selected,15 - 34,White,1180,48773131,2.4,48774313.4,230,Homicide
+None selected,15 - 34,Black,4701,11893789,39.5,11898529.5,231,Homicide
+None selected,15 - 34,Hispanic,1296,17960261,7.2,17961564.2,232,Homicide
+None selected,15 - 34,Asian/Pacific Islander,92,4950398,1.9,4950491.9,233,Homicide
+None selected,15 - 34,Other,66,3033571,2.2,3033639.2,234,Homicide
+None selected,35 - 64,None selected,3792,123935928,3.1,123939723.1,235,Homicide
+None selected,35 - 64,White,1505,81870182,1.8,81871688.8,236,Homicide
+None selected,35 - 64,Black,1652,14848291,11.1,14849954.1,237,Homicide
+None selected,35 - 64,Hispanic,514,17777422,2.9,17777938.9,238,Homicide
+None selected,35 - 64,Asian/Pacific Islander,84,6797707,1.2,6797792.2,239,Homicide
+None selected,35 - 64,Other,37,2642326,1.4,2642364.4,240,Homicide
+None selected,65+,None selected,375,44667034,0.8,44667409.8,241,Homicide
+None selected,65+,White,274,35187489,0.8,35187763.8,242,Homicide
+None selected,65+,Black,69,3830699,1.8,3830769.8,243,Homicide
+None selected,65+,Hispanic,22,3316947,0.7,3316969.7,244,Homicide
+None selected,65+,Asian/Pacific Islander,7,1742301,0.4,1742308.4,245,Homicide
+None selected,65+,Other,2,589598,0.3,589600.3,246,Homicide
+None selected,5,None selected,3,0,inf,inf,247,Homicide
+None selected,5,White,2,0,inf,inf,248,Homicide
+None selected,5,Black,0,0,,0.0,249,Homicide
+None selected,5,Hispanic,0,0,,0.0,250,Homicide
+None selected,5,Asian/Pacific Islander,0,0,,0.0,251,Homicide
+None selected,5,Other,0,0,,0.0,252,Homicide
+Female,None selected,None selected,1791,160668110,1.1,160669902.1,253,Homicide
+Female,None selected,White,860,100162288,0.9,100163148.9,254,Homicide
+Female,None selected,Black,633,20362385,3.1,20363021.1,255,Homicide
+Female,None selected,Hispanic,232,26670924,0.9,26671156.9,256,Homicide
+Female,None selected,Asian/Pacific Islander,47,8589119,0.5,8589166.5,257,Homicide
+Female,None selected,Other,20,4883395,0.4,4883415.4,258,Homicide
+Female,Under 15,None selected,85,29836679,0.3,29836764.3,259,Homicide
+Female,Under 15,White,38,15355910,0.2,15355948.2,260,Homicide
+Female,Under 15,Black,27,4095428,0.7,4095455.7,261,Homicide
+Female,Under 15,Hispanic,19,7330024,0.3,7330043.3,262,Homicide
+Female,Under 15,Asian/Pacific Islander,1,1393440,0.1,1393441.1,263,Homicide
+Female,Under 15,Other,1,1661877,0.1,1661878.1,264,Homicide
+Female,15 - 34,None selected,815,42593280,1.9,42594096.9,265,Homicide
+Female,15 - 34,White,267,23942099,1.1,23942367.1,266,Homicide
+Female,15 - 34,Black,389,6023846,6.5,6024241.5,267,Homicide
+Female,15 - 34,Hispanic,131,8580577,1.5,8580709.5,268,Homicide
+Female,15 - 34,Asian/Pacific Islander,16,2535358,0.6,2535374.6,269,Homicide
+Female,15 - 34,Other,13,1511400,0.9,1511413.9,270,Homicide
+Female,35 - 64,None selected,733,63125058,1.2,63125792.2,271,Homicide
+Female,35 - 64,White,426,41284839,1.0,41285266.0,272,Homicide
+Female,35 - 64,Black,199,7932606,2.5,7932807.5,273,Homicide
+Female,35 - 64,Hispanic,76,8863203,0.9,8863279.9,274,Homicide
+Female,35 - 64,Asian/Pacific Islander,26,3668172,0.7,3668198.7,275,Homicide
+Female,35 - 64,Other,6,1376239,0.4,1376245.4,276,Homicide
+Female,65+,None selected,158,25113094,0.6,25113252.6,277,Homicide
+Female,65+,White,129,19579439,0.7,19579568.7,278,Homicide
+Female,65+,Black,18,2310506,0.8,2310524.8,279,Homicide
+Female,65+,Hispanic,6,1897119,0.3,1897125.3,280,Homicide
+Female,65+,Asian/Pacific Islander,4,992150,0.4,992154.4,281,Homicide
+Female,65+,Other,1,333879,0.3,333880.3,282,Homicide
+Female,5,None selected,0,0,,0.0,283,Homicide
+Female,5,White,0,0,,0.0,284,Homicide
+Female,5,Black,0,0,,0.0,285,Homicide
+Female,5,Hispanic,0,0,,0.0,286,Homicide
+Female,5,Asian/Pacific Islander,0,0,,0.0,287,Homicide
+Female,5,Other,0,0,,0.0,288,Homicide
+Male,None selected,None selected,9935,155631868,6.4,155641809.4,289,Homicide
+Male,None selected,White,2189,97207346,2.3,97209537.3,290,Homicide
+Male,None selected,Black,5871,18533996,31.7,18539898.7,291,Homicide
+Male,None selected,Hispanic,1646,27378155,6.0,27379807.0,292,Homicide
+Male,None selected,Asian/Pacific Islander,140,7726442,1.8,7726583.8,293,Homicide
+Male,None selected,Other,89,4785929,1.9,4786019.9,294,Homicide
+Male,Under 15,None selected,136,31249189,0.4,31249325.4,295,Homicide
+Male,Under 15,White,50,16182922,0.3,16182972.3,296,Homicide
+Male,Under 15,Black,55,4228176,1.3,4228232.3,297,Homicide
+Male,Under 15,Hispanic,26,7664425,0.3,7664451.3,298,Homicide
+Male,Under 15,Asian/Pacific Islander,3,1431715,0.2,1431718.2,299,Homicide
+Male,Under 15,Other,2,1741952,0.1,1741954.1,300,Homicide
+Male,15 - 34,None selected,6520,44017869,14.8,44024403.8,301,Homicide
+Male,15 - 34,White,913,24831032,3.7,24831948.7,302,Homicide
+Male,15 - 34,Black,4312,5869943,73.5,5874328.5,303,Homicide
+Male,15 - 34,Hispanic,1166,9379683,12.4,9380861.4,304,Homicide
+Male,15 - 34,Asian/Pacific Islander,76,2415040,3.1,2415119.1,305,Homicide
+Male,15 - 34,Other,54,1522171,3.5,1522228.5,306,Homicide
+Male,35 - 64,None selected,3059,60810870,5.0,60813934.0,307,Homicide
+Male,35 - 64,White,1079,40585343,2.7,40586424.7,308,Homicide
+Male,35 - 64,Black,1453,6915685,21.0,6917159.0,309,Homicide
+Male,35 - 64,Hispanic,438,8914219,4.9,8914661.9,310,Homicide
+Male,35 - 64,Asian/Pacific Islander,57,3129535,1.8,3129593.8,311,Homicide
+Male,35 - 64,Other,31,1266087,2.4,1266120.4,312,Homicide
+Male,65+,None selected,217,19553940,1.1,19554158.1,313,Homicide
+Male,65+,White,145,15608050,0.9,15608195.9,314,Homicide
+Male,65+,Black,51,1520192,3.4,1520246.4,315,Homicide
+Male,65+,Hispanic,16,1419828,1.1,1419845.1,316,Homicide
+Male,65+,Asian/Pacific Islander,4,750151,0.5,750155.5,317,Homicide
+Male,65+,Other,1,255719,0.4,255720.4,318,Homicide
+Male,5,None selected,3,0,inf,inf,319,Homicide
+Male,5,White,2,0,inf,inf,320,Homicide
+Male,5,Black,0,0,,0.0,321,Homicide
+Male,5,Hispanic,0,0,,0.0,322,Homicide
+Male,5,Asian/Pacific Islander,0,0,,0.0,323,Homicide
+Male,5,Other,0,0,,0.0,324,Homicide
+None selected,None selected,None selected,546,316299978,0.2,316300524.2,325,Accident
+None selected,None selected,White,377,197369634,0.2,197370011.2,326,Accident
+None selected,None selected,Black,109,38896382,0.3,38896491.3,327,Accident
+None selected,None selected,Hispanic,48,54049078,0.1,54049126.1,328,Accident
+None selected,None selected,Asian/Pacific Islander,4,16315561,0.0,16315565.0,329,Accident
+None selected,None selected,Other,7,9669323,0.1,9669330.1,330,Accident
+None selected,Under 15,None selected,59,61085868,0.1,61085927.1,331,Accident
+None selected,Under 15,White,33,31538832,0.1,31538865.1,332,Accident
+None selected,Under 15,Black,19,8323603,0.2,8323622.2,333,Accident
+None selected,Under 15,Hispanic,6,14994449,0.0,14994455.0,334,Accident
+None selected,Under 15,Asian/Pacific Islander,0,2825155,0.0,2825155.0,335,Accident
+None selected,Under 15,Other,1,3403829,0.0,3403830.0,336,Accident
+None selected,15 - 34,None selected,210,86611149,0.2,86611359.2,337,Accident
+None selected,15 - 34,White,116,48773131,0.2,48773247.2,338,Accident
+None selected,15 - 34,Black,60,11893789,0.5,11893849.5,339,Accident
+None selected,15 - 34,Hispanic,29,17960261,0.2,17960290.2,340,Accident
+None selected,15 - 34,Asian/Pacific Islander,2,4950398,0.0,4950400.0,341,Accident
+None selected,15 - 34,Other,3,3033571,0.1,3033574.1,342,Accident
+None selected,35 - 64,None selected,206,123935928,0.2,123936134.2,343,Accident
+None selected,35 - 64,White,165,81870182,0.2,81870347.2,344,Accident
+None selected,35 - 64,Black,24,14848291,0.2,14848315.2,345,Accident
+None selected,35 - 64,Hispanic,12,17777422,0.1,17777434.1,346,Accident
+None selected,35 - 64,Asian/Pacific Islander,2,6797707,0.0,6797709.0,347,Accident
+None selected,35 - 64,Other,3,2642326,0.1,2642329.1,348,Accident
+None selected,65+,None selected,71,44667034,0.2,44667105.2,349,Accident
+None selected,65+,White,64,35187489,0.2,35187553.2,350,Accident
+None selected,65+,Black,6,3830699,0.2,3830705.2,351,Accident
+None selected,65+,Hispanic,2,3316947,0.1,3316949.1,352,Accident
+None selected,65+,Asian/Pacific Islander,0,1742301,0.0,1742301.0,353,Accident
+None selected,65+,Other,0,589598,0.0,589598.0,354,Accident
+None selected,5,None selected,0,0,,0.0,355,Accident
+None selected,5,White,0,0,,0.0,356,Accident
+None selected,5,Black,0,0,,0.0,357,Accident
+None selected,5,Hispanic,0,0,,0.0,358,Accident
+None selected,5,Asian/Pacific Islander,0,0,,0.0,359,Accident
+None selected,5,Other,0,0,,0.0,360,Accident
+Female,None selected,None selected,73,160668110,0.0,160668183.0,361,Accident
+Female,None selected,White,55,100162288,0.1,100162343.1,362,Accident
+Female,None selected,Black,11,20362385,0.1,20362396.1,363,Accident
+Female,None selected,Hispanic,5,26670924,0.0,26670929.0,364,Accident
+Female,None selected,Asian/Pacific Islander,1,8589119,0.0,8589120.0,365,Accident
+Female,None selected,Other,1,4883395,0.0,4883396.0,366,Accident
+Female,Under 15,None selected,12,29836679,0.0,29836691.0,367,Accident
+Female,Under 15,White,7,15355910,0.0,15355917.0,368,Accident
+Female,Under 15,Black,3,4095428,0.1,4095431.1,369,Accident
+Female,Under 15,Hispanic,2,7330024,0.0,7330026.0,370,Accident
+Female,Under 15,Asian/Pacific Islander,0,1393440,0.0,1393440.0,371,Accident
+Female,Under 15,Other,0,1661877,0.0,1661877.0,372,Accident
+Female,15 - 34,None selected,21,42593280,0.0,42593301.0,373,Accident
+Female,15 - 34,White,14,23942099,0.1,23942113.1,374,Accident
+Female,15 - 34,Black,5,6023846,0.1,6023851.1,375,Accident
+Female,15 - 34,Hispanic,2,8580577,0.0,8580579.0,376,Accident
+Female,15 - 34,Asian/Pacific Islander,0,2535358,0.0,2535358.0,377,Accident
+Female,15 - 34,Other,0,1511400,0.0,1511400.0,378,Accident
+Female,35 - 64,None selected,33,63125058,0.1,63125091.1,379,Accident
+Female,35 - 64,White,28,41284839,0.1,41284867.1,380,Accident
+Female,35 - 64,Black,3,7932606,0.0,7932609.0,381,Accident
+Female,35 - 64,Hispanic,1,8863203,0.0,8863204.0,382,Accident
+Female,35 - 64,Asian/Pacific Islander,1,3668172,0.0,3668173.0,383,Accident
+Female,35 - 64,Other,0,1376239,0.0,1376239.0,384,Accident
+Female,65+,None selected,7,25113094,0.0,25113101.0,385,Accident
+Female,65+,White,6,19579439,0.0,19579445.0,386,Accident
+Female,65+,Black,0,2310506,0.0,2310506.0,387,Accident
+Female,65+,Hispanic,0,1897119,0.0,1897119.0,388,Accident
+Female,65+,Asian/Pacific Islander,0,992150,0.0,992150.0,389,Accident
+Female,65+,Other,0,333879,0.0,333879.0,390,Accident
+Female,5,None selected,0,0,,0.0,391,Accident
+Female,5,White,0,0,,0.0,392,Accident
+Female,5,Black,0,0,,0.0,393,Accident
+Female,5,Hispanic,0,0,,0.0,394,Accident
+Female,5,Asian/Pacific Islander,0,0,,0.0,395,Accident
+Female,5,Other,0,0,,0.0,396,Accident
+Male,None selected,None selected,474,155631868,0.3,155632342.3,397,Accident
+Male,None selected,White,323,97207346,0.3,97207669.3,398,Accident
+Male,None selected,Black,98,18533996,0.5,18534094.5,399,Accident
+Male,None selected,Hispanic,43,27378155,0.2,27378198.2,400,Accident
+Male,None selected,Asian/Pacific Islander,3,7726442,0.0,7726445.0,401,Accident
+Male,None selected,Other,7,4785929,0.1,4785936.1,402,Accident
+Male,Under 15,None selected,47,31249189,0.2,31249236.2,403,Accident
+Male,Under 15,White,26,16182922,0.2,16182948.2,404,Accident
+Male,Under 15,Black,16,4228176,0.4,4228192.4,405,Accident
+Male,Under 15,Hispanic,4,7664425,0.1,7664429.1,406,Accident
+Male,Under 15,Asian/Pacific Islander,0,1431715,0.0,1431715.0,407,Accident
+Male,Under 15,Other,1,1741952,0.1,1741953.1,408,Accident
+Male,15 - 34,None selected,189,44017869,0.4,44018058.4,409,Accident
+Male,15 - 34,White,102,24831032,0.4,24831134.4,410,Accident
+Male,15 - 34,Black,56,5869943,1.0,5870000.0,411,Accident
+Male,15 - 34,Hispanic,27,9379683,0.3,9379710.3,412,Accident
+Male,15 - 34,Asian/Pacific Islander,1,2415040,0.0,2415041.0,413,Accident
+Male,15 - 34,Other,3,1522171,0.2,1522174.2,414,Accident
+Male,35 - 64,None selected,173,60810870,0.3,60811043.3,415,Accident
+Male,35 - 64,White,137,40585343,0.3,40585480.3,416,Accident
+Male,35 - 64,Black,21,6915685,0.3,6915706.3,417,Accident
+Male,35 - 64,Hispanic,10,8914219,0.1,8914229.1,418,Accident
+Male,35 - 64,Asian/Pacific Islander,1,3129535,0.0,3129536.0,419,Accident
+Male,35 - 64,Other,3,1266087,0.2,1266090.2,420,Accident
+Male,65+,None selected,64,19553940,0.3,19554004.3,421,Accident
+Male,65+,White,57,15608050,0.4,15608107.4,422,Accident
+Male,65+,Black,5,1520192,0.3,1520197.3,423,Accident
+Male,65+,Hispanic,2,1419828,0.1,1419830.1,424,Accident
+Male,65+,Asian/Pacific Islander,0,750151,0.0,750151.0,425,Accident
+Male,65+,Other,0,255719,0.0,255719.0,426,Accident
+Male,5,None selected,0,0,,0.0,427,Accident
+Male,5,White,0,0,,0.0,428,Accident
+Male,5,Black,0,0,,0.0,429,Accident
+Male,5,Hispanic,0,0,,0.0,430,Accident
+Male,5,Asian/Pacific Islander,0,0,,0.0,431,Accident
+Male,5,Other,0,0,,0.0,432,Accident
+None selected,None selected,None selected,269,316299978,0.1,316300247.1,433,Unknown
+None selected,None selected,White,195,197369634,0.1,197369829.1,434,Unknown
+None selected,None selected,Black,42,38896382,0.1,38896424.1,435,Unknown
+None selected,None selected,Hispanic,24,54049078,0.0,54049102.0,436,Unknown
+None selected,None selected,Asian/Pacific Islander,3,16315561,0.0,16315564.0,437,Unknown
+None selected,None selected,Other,5,9669323,0.1,9669328.1,438,Unknown
+None selected,Under 15,None selected,8,61085868,0.0,61085876.0,439,Unknown
+None selected,Under 15,White,5,31538832,0.0,31538837.0,440,Unknown
+None selected,Under 15,Black,2,8323603,0.0,8323605.0,441,Unknown
+None selected,Under 15,Hispanic,1,14994449,0.0,14994450.0,442,Unknown
+None selected,Under 15,Asian/Pacific Islander,0,2825155,0.0,2825155.0,443,Unknown
+None selected,Under 15,Other,0,3403829,0.0,3403829.0,444,Unknown
+None selected,15 - 34,None selected,116,86611149,0.1,86611265.1,445,Unknown
+None selected,15 - 34,White,70,48773131,0.1,48773201.1,446,Unknown
+None selected,15 - 34,Black,25,11893789,0.2,11893814.2,447,Unknown
+None selected,15 - 34,Hispanic,17,17960261,0.1,17960278.1,448,Unknown
+None selected,15 - 34,Asian/Pacific Islander,1,4950398,0.0,4950399.0,449,Unknown
+None selected,15 - 34,Other,3,3033571,0.1,3033574.1,450,Unknown
+None selected,35 - 64,None selected,113,123935928,0.1,123936041.1,451,Unknown
+None selected,35 - 64,White,91,81870182,0.1,81870273.1,452,Unknown
+None selected,35 - 64,Black,12,14848291,0.1,14848303.1,453,Unknown
+None selected,35 - 64,Hispanic,6,17777422,0.0,17777428.0,454,Unknown
+None selected,35 - 64,Asian/Pacific Islander,2,6797707,0.0,6797709.0,455,Unknown
+None selected,35 - 64,Other,2,2642326,0.1,2642328.1,456,Unknown
+None selected,65+,None selected,31,44667034,0.1,44667065.1,457,Unknown
+None selected,65+,White,28,35187489,0.1,35187517.1,458,Unknown
+None selected,65+,Black,3,3830699,0.1,3830702.1,459,Unknown
+None selected,65+,Hispanic,0,3316947,0.0,3316947.0,460,Unknown
+None selected,65+,Asian/Pacific Islander,0,1742301,0.0,1742301.0,461,Unknown
+None selected,65+,Other,0,589598,0.0,589598.0,462,Unknown
+None selected,5,None selected,0,0,,0.0,463,Unknown
+None selected,5,White,0,0,,0.0,464,Unknown
+None selected,5,Black,0,0,,0.0,465,Unknown
+None selected,5,Hispanic,0,0,,0.0,466,Unknown
+None selected,5,Asian/Pacific Islander,0,0,,0.0,467,Unknown
+None selected,5,Other,0,0,,0.0,468,Unknown
+Female,None selected,None selected,56,160668110,0.0,160668166.0,469,Unknown
+Female,None selected,White,42,100162288,0.0,100162330.0,470,Unknown
+Female,None selected,Black,7,20362385,0.0,20362392.0,471,Unknown
+Female,None selected,Hispanic,5,26670924,0.0,26670929.0,472,Unknown
+Female,None selected,Asian/Pacific Islander,1,8589119,0.0,8589120.0,473,Unknown
+Female,None selected,Other,1,4883395,0.0,4883396.0,474,Unknown
+Female,Under 15,None selected,2,29836679,0.0,29836681.0,475,Unknown
+Female,Under 15,White,1,15355910,0.0,15355911.0,476,Unknown
+Female,Under 15,Black,1,4095428,0.0,4095429.0,477,Unknown
+Female,Under 15,Hispanic,0,7330024,0.0,7330024.0,478,Unknown
+Female,Under 15,Asian/Pacific Islander,0,1393440,0.0,1393440.0,479,Unknown
+Female,Under 15,Other,0,1661877,0.0,1661877.0,480,Unknown
+Female,15 - 34,None selected,23,42593280,0.1,42593303.1,481,Unknown
+Female,15 - 34,White,15,23942099,0.1,23942114.1,482,Unknown
+Female,15 - 34,Black,3,6023846,0.0,6023849.0,483,Unknown
+Female,15 - 34,Hispanic,3,8580577,0.0,8580580.0,484,Unknown
+Female,15 - 34,Asian/Pacific Islander,0,2535358,0.0,2535358.0,485,Unknown
+Female,15 - 34,Other,1,1511400,0.1,1511401.1,486,Unknown
+Female,35 - 64,None selected,26,63125058,0.0,63125084.0,487,Unknown
+Female,35 - 64,White,21,41284839,0.1,41284860.1,488,Unknown
+Female,35 - 64,Black,3,7932606,0.0,7932609.0,489,Unknown
+Female,35 - 64,Hispanic,2,8863203,0.0,8863205.0,490,Unknown
+Female,35 - 64,Asian/Pacific Islander,0,3668172,0.0,3668172.0,491,Unknown
+Female,35 - 64,Other,0,1376239,0.0,1376239.0,492,Unknown
+Female,65+,None selected,6,25113094,0.0,25113100.0,493,Unknown
+Female,65+,White,5,19579439,0.0,19579444.0,494,Unknown
+Female,65+,Black,0,2310506,0.0,2310506.0,495,Unknown
+Female,65+,Hispanic,0,1897119,0.0,1897119.0,496,Unknown
+Female,65+,Asian/Pacific Islander,0,992150,0.0,992150.0,497,Unknown
+Female,65+,Other,0,333879,0.0,333879.0,498,Unknown
+Female,5,None selected,0,0,,0.0,499,Unknown
+Female,5,White,0,0,,0.0,500,Unknown
+Female,5,Black,0,0,,0.0,501,Unknown
+Female,5,Hispanic,0,0,,0.0,502,Unknown
+Female,5,Asian/Pacific Islander,0,0,,0.0,503,Unknown
+Female,5,Other,0,0,,0.0,504,Unknown
+Male,None selected,None selected,213,155631868,0.1,155632081.1,505,Unknown
+Male,None selected,White,153,97207346,0.2,97207499.2,506,Unknown
+Male,None selected,Black,35,18533996,0.2,18534031.2,507,Unknown
+Male,None selected,Hispanic,19,27378155,0.1,27378174.1,508,Unknown
+Male,None selected,Asian/Pacific Islander,3,7726442,0.0,7726445.0,509,Unknown
+Male,None selected,Other,4,4785929,0.1,4785933.1,510,Unknown
+Male,Under 15,None selected,6,31249189,0.0,31249195.0,511,Unknown
+Male,Under 15,White,5,16182922,0.0,16182927.0,512,Unknown
+Male,Under 15,Black,1,4228176,0.0,4228177.0,513,Unknown
+Male,Under 15,Hispanic,0,7664425,0.0,7664425.0,514,Unknown
+Male,Under 15,Asian/Pacific Islander,0,1431715,0.0,1431715.0,515,Unknown
+Male,Under 15,Other,0,1741952,0.0,1741952.0,516,Unknown
+Male,15 - 34,None selected,94,44017869,0.2,44017963.2,517,Unknown
+Male,15 - 34,White,55,24831032,0.2,24831087.2,518,Unknown
+Male,15 - 34,Black,22,5869943,0.4,5869965.4,519,Unknown
+Male,15 - 34,Hispanic,14,9379683,0.1,9379697.1,520,Unknown
+Male,15 - 34,Asian/Pacific Islander,1,2415040,0.0,2415041.0,521,Unknown
+Male,15 - 34,Other,2,1522171,0.1,1522173.1,522,Unknown
+Male,35 - 64,None selected,87,60810870,0.1,60810957.1,523,Unknown
+Male,35 - 64,White,70,40585343,0.2,40585413.2,524,Unknown
+Male,35 - 64,Black,9,6915685,0.1,6915694.1,525,Unknown
+Male,35 - 64,Hispanic,4,8914219,0.0,8914223.0,526,Unknown
+Male,35 - 64,Asian/Pacific Islander,2,3129535,0.1,3129537.1,527,Unknown
+Male,35 - 64,Other,1,1266087,0.1,1266088.1,528,Unknown
+Male,65+,None selected,26,19553940,0.1,19553966.1,529,Unknown
+Male,65+,White,23,15608050,0.1,15608073.1,530,Unknown
+Male,65+,Black,2,1520192,0.1,1520194.1,531,Unknown
+Male,65+,Hispanic,0,1419828,0.0,1419828.0,532,Unknown
+Male,65+,Asian/Pacific Islander,0,750151,0.0,750151.0,533,Unknown
+Male,65+,Other,0,255719,0.0,255719.0,534,Unknown
+Male,5,None selected,0,0,,0.0,535,Unknown
+Male,5,White,0,0,,0.0,536,Unknown
+Male,5,Black,0,0,,0.0,537,Unknown
+Male,5,Hispanic,0,0,,0.0,538,Unknown
+Male,5,Asian/Pacific Islander,0,0,,0.0,539,Unknown
+Male,5,Other,0,0,,0.0,540,Unknown
